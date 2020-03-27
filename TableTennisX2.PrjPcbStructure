@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Power.SchDoc
+Record=SheetSymbol|SourceDocument=Power.SchDoc|Designator=U_AP2112K|SchDesignator=U_AP2112K|FileName=AP2112K.SchDoc|SymbolType=Normal|RawFileName=AP2112K.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power.SchDoc|Designator=U_NAND_PullUp_OD|SchDesignator=U_NAND_PullUp_OD|FileName=NAND_PullUp_OD.SchDoc|SymbolType=Normal|RawFileName=NAND_PullUp_OD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power.SchDoc|Designator=U_TP4059|SchDesignator=U_TP4059|FileName=TP4059.SchDoc|SymbolType=Normal|RawFileName=TP4059.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
